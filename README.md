@@ -19,9 +19,6 @@ That screenshot is fake, by the way. I never reached 1848 :smile:
 
 ## Reward
 If it brings you happiness, please buy me a cup of coffee.
-<p align="center">
-  <img src="https://tomotoes.com/images/blog/alipay.png" alt="Reward"/>
-</p>
 
 ## Thanks
 **感谢刘琳小朋友 以其可爱的舍友们测试、提议 ，感谢家铭同学优化代码的建议。**
