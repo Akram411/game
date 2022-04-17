@@ -2,12 +2,6 @@
 
 Made just for fun. [Play it here!](https://tomotoes.com/2048/)
 
-### Screenshot
-
-<p align="center">
-  <img src="./screenshot/pc.png" alt="Screenshot"/>
-  <img src="./screenshot/phone.jpg" alt="Screenshot"/>
-</p>
 
 That screenshot is fake, by the way. I never reached 1848 :smile:
 
